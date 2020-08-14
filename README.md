@@ -1,2 +1,2 @@
-# stepik-autotests-course
+# stepik-autotest
 Home for homework scripts
